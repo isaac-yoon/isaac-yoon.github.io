@@ -1,6 +1,6 @@
 # isaac-yoon.github.io
 [Live Site](https://isaac-yoon.github.io/) </br>
-This is my personal site, showcasing my projects and my work history.
+This is my personal site, showcasing my projects and my work history. </br>
 Note: do not add a 'www' before the site address.
 
 ## Credits
