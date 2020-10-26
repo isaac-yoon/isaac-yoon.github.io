@@ -4,6 +4,15 @@ This is my personal site, showcasing my projects and my work history. </br>
 Note: do not add a 'www' before the site address.
 
 ## Credits
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hyperspace by HTML5 UP </br>
+html5up.net | @ajlkn </br>
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) </br>
+
+</br>
+
+Demo Images: Unsplash (unsplash.com) </br>
+Icons: Font Awesome (fontawesome.io) </br>
+Other: </br>
+	jQuery (jquery.com) </br>
+	Scrollex (github.com/ajlkn/jquery.scrollex) </br>
+	Responsive Tools (github.com/ajlkn/responsive-tools) </br>
