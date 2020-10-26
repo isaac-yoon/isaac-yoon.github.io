@@ -1,0 +1,9 @@
+.inner-row {
+  display: flex;
+  flex-direction: row;
+}
+
+#profile-picture {
+  height: 400px;
+  width: auto;
+}
