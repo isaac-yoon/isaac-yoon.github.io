@@ -13,6 +13,6 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 Demo Images: Unsplash (unsplash.com) </br>
 Icons: Font Awesome (fontawesome.io) </br>
 Other: </br>
-	jQuery (jquery.com) </br>
-	Scrollex (github.com/ajlkn/jquery.scrollex) </br>
-	Responsive Tools (github.com/ajlkn/responsive-tools) </br>
+&nbsp; &nbsp; jQuery (jquery.com) </br>
+&nbsp; &nbsp; Scrollex (github.com/ajlkn/jquery.scrollex) </br>
+&nbsp; &nbsp; Responsive Tools (github.com/ajlkn/responsive-tools) </br>
