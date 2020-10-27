@@ -3,14 +3,7 @@
   flex-direction: row;
 }
 
-.col-2 {
-  padding: 0 0 0 3em;
-}
-
-#profile-picture {
-  height: 238px;
+.image .fit {
+  height: 260px;
   width: auto;
-  border-radius: 4px;
-  display: block;
-  margin: 0 0 2em 0;
 }
