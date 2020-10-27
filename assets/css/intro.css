@@ -1,8 +1,3 @@
-.inner-row {
-  display: flex;
-  flex-direction: row;
-}
-
 .image .fit {
   height: 260px;
   width: auto;
