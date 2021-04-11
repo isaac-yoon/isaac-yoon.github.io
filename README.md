@@ -1,11 +1,8 @@
 # isaac-yoon.github.io
-This is my personal site, showcasing my projects. </br>
+This is my personal site. </br>
 
 ## Credits
-Hyperspace by HTML5 UP </br>
-html5up.net | @ajlkn </br>
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) </br>
-</br>
+HTML and CSS | @ajlkn </br>
 Demo Images:</br>
 &nbsp; Unsplash (unsplash.com) </br>
 </br>
