@@ -3,6 +3,7 @@ This is my personal site. If you copy code, please attribute me. Thanks! </br>
 
 ## Credits
 HTML and CSS | @ajlkn </br>
+</br>
 Demo Images:</br>
 &nbsp; Unsplash (unsplash.com) </br>
 </br>
