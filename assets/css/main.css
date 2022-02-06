@@ -3910,3 +3910,8 @@ input, select, textarea {
 		}
 
 /* ------------------------------------------------------------------ */
+
+.Genesis_header {
+	display: flex;
+	justify-content: space-between;
+}
