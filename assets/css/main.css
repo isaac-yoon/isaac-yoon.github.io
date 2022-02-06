@@ -3919,5 +3919,4 @@ input, select, textarea {
 .Hebrew {
 	display: flex;
 	flex-direction: column;
-	align-items: baseline;
 }
