@@ -3915,3 +3915,8 @@ input, select, textarea {
 	display: flex;
 	justify-content: space-between;
 }
+
+.Hebrew {
+	display: flex;
+	align-items: baseline;
+}
