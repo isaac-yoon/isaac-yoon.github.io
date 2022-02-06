@@ -3911,12 +3911,7 @@ input, select, textarea {
 
 /* ------------------------------------------------------------------ */
 
-.Genesis_header {
-	display: flex;
-	justify-content: space-between;
-}
-
-.Genesis_english_korean {
+.Genesis {
 	display: flex;
 	justify-content: space-between;
 }
