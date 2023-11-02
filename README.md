@@ -11,4 +11,3 @@ Other: </br>
 &nbsp; jQuery (jquery.com) </br>
 &nbsp; Scrollex (github.com/ajlkn/jquery.scrollex) </br>
 &nbsp; Responsive Tools (github.com/ajlkn/responsive-tools) </br>
-THE END.
