@@ -1,5 +1,5 @@
 # isaac-yoon.github.io
-This is my personal site. Thanks for visiting! </br>
+This is my personal site.
 
 ## Credits
 HTML and CSS | @ajlkn </br>
